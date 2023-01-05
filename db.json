@@ -6,6 +6,24 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "jvmeira98@mail.com",
+      "password": "$2a$10$9DZScWpfV0kC9EXApItsOeflrsvBJXODLtBNbsX8wv8EvNLirjG.6",
+      "id": 2
+    },
+    {
+      "email": "hang@mail.com",
+      "password": "$2a$10$rA6iVXp2B7J6ouxFwmbbBuacEGORVG4XqujOfs.StaH1hwyYxuTai",
+      "id": 3
+    },
+    {
+      "email": "harvard@mail.com",
+      "password": "$2a$10$eTT2YTAcjPcA2j8NULNjO.W/lznQMvsjduRUFAIW2uL5UEk3YXs1G",
+      "nome": "john harvard",
+      "foto": "https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo-Meaning-history.jpg",
+      "id": 4
     }
-  ]
+  ],
+  "ONGs": []
 }

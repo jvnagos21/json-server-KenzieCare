@@ -25,5 +25,14 @@
       "id": 4
     }
   ],
-  "ONGs": []
+  "ONGs": [
+    {
+      "userId": 2,
+      "name": "ONG X",
+      "estado": "Pernambuco",
+      "areaAtuacao": "Doação de Brinquedos",
+      "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
+      "id": 1
+    }
+  ]
 }

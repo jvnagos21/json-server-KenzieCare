@@ -33,6 +33,22 @@
       "areaAtuacao": "Doação de Brinquedos",
       "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
       "id": 1
+    },
+    {
+      "userId": 2,
+      "name": "ONG Y",
+      "estado": "São Paulo",
+      "areaAtuacao": "Doação de Roupas",
+      "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "name": "ONG Z",
+      "estado": "Rio de Janeiro",
+      "areaAtuacao": "Doação de Alimentos",
+      "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
+      "id": 3
     }
   ]
 }

@@ -23,24 +23,34 @@
       "nome": "john harvard",
       "foto": "https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo-Meaning-history.jpg",
       "id": 4
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$A8ewc909CEYwpWcJ7eFha.S7eoPxGzlj/UIejnLQDDovr8GwJdYiK",
+      "nome": "john admin",
+      "foto": "https://cdn-icons-png.flaticon.com/512/2206/2206368.png",
+      "is_admin": true,
+      "id": 5
     }
   ],
   "ONGs": [
     {
       "userId": 2,
-      "name": "ONG X",
-      "estado": "Pernambuco",
+      "name": "Nature is not alone",
+      "estado": "Bahia",
       "areaAtuacao": "Doação de Brinquedos",
-      "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
-      "id": 1
+      "imagem": "https://www.google.com/url?q=https://static.wixstatic.com/media/8962bc_7a1c65e5a65c4a599cdc27be95578b77~mv2.jpg&sa=D&source=docs&ust=1673035632982309&usg=AOvVaw04gL2YvZPFk6YzMUIJ2MsI",
+      "id": 1,
+      "descricao": "Somos uma ONG totalmente ligada aos casos ambientais , buscamos de todas as formas proteger e defender a nossa fauna e flora , a cada 2 dias montamos times com os nossos apoiadores para ir a praia e fazer uma limpeza , temos varias sedes espalhadas pelo brasil e sempre visando resolver os problemas ambientais que vem devastando com o nosso pais"
     },
     {
       "userId": 2,
-      "name": "ONG Y",
-      "estado": "São Paulo",
+      "name": "WorldConnected",
+      "estado": "Bahia",
       "areaAtuacao": "Doação de Roupas",
-      "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
-      "id": 2
+      "imagem": "https://observatorio3setor.org.br/wp-content/uploads/2017/03/2013_September_SocialGood_SocialMediaForSocialGood_Image-portal.jpg",
+      "id": 2,
+      "descricao": "Somos uma ONG que busca promover a integração e o acesso de   pessoas mais necessitadas  e em situação de rua com a internet , buscamos   conseguir da um acesso ao mundo conectado atraves de celulares , ou até     mesmo computadores que temos em nossa sede , dessa forma essas pessoas       podem até mesmo buscar por cursos para buscava melhorar a sua situação e     conseguir arrumar um bom emprego e ter uma nova progressão em sua vida ,     ou até mesmo para se comunicar com outras pessoas e até mesmo ter acesso a   noticias e a tudo que rola nesse amplo ambiente que é a internet!"
     },
     {
       "userId": 2,

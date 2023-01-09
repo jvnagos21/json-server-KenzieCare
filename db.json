@@ -38,7 +38,7 @@
       "userId": 2,
       "name": "Nature is not alone",
       "estado": "Bahia",
-      "areaAtuacao": "Doação de Brinquedos",
+      "areaAtuacao": "Meio Ambiente",
       "imagem": "https://www.google.com/url?q=https://static.wixstatic.com/media/8962bc_7a1c65e5a65c4a599cdc27be95578b77~mv2.jpg&sa=D&source=docs&ust=1673035632982309&usg=AOvVaw04gL2YvZPFk6YzMUIJ2MsI",
       "id": 1,
       "descricao": "Somos uma ONG totalmente ligada aos casos ambientais , buscamos de todas as formas proteger e defender a nossa fauna e flora , a cada 2 dias montamos times com os nossos apoiadores para ir a praia e fazer uma limpeza , temos varias sedes espalhadas pelo brasil e sempre visando resolver os problemas ambientais que vem devastando com o nosso pais"
@@ -47,18 +47,64 @@
       "userId": 2,
       "name": "WorldConnected",
       "estado": "Bahia",
-      "areaAtuacao": "Doação de Roupas",
+      "areaAtuacao": "Assistência social",
       "imagem": "https://observatorio3setor.org.br/wp-content/uploads/2017/03/2013_September_SocialGood_SocialMediaForSocialGood_Image-portal.jpg",
       "id": 2,
       "descricao": "Somos uma ONG que busca promover a integração e o acesso de   pessoas mais necessitadas  e em situação de rua com a internet , buscamos   conseguir da um acesso ao mundo conectado atraves de celulares , ou até     mesmo computadores que temos em nossa sede , dessa forma essas pessoas       podem até mesmo buscar por cursos para buscava melhorar a sua situação e     conseguir arrumar um bom emprego e ter uma nova progressão em sua vida ,     ou até mesmo para se comunicar com outras pessoas e até mesmo ter acesso a   noticias e a tudo que rola nesse amplo ambiente que é a internet!"
     },
     {
       "userId": 2,
-      "name": "ONG Z",
-      "estado": "Rio de Janeiro",
+      "name": "Apoio para todos",
+      "estado": "Bahia",
       "areaAtuacao": "Doação de Alimentos",
-      "imagem": "https://nossacausa.com/wp-content/uploads/2014/09/ongs.jpg",
-      "id": 3
+      "imagem": "http://whatsrel.com.br/wp-content/uploads/2018/08/imagem-sit-op%C3%A7%C3%A3o-2..jpg",
+      "id": 3,
+      "descricao": "Somos uma ONG que busca ajudar todas as pessoas que precisam independente do motivo e da sua necessidade , temos varios postos de coleta espalhados pela cidade para a doação de alimentos ou do que o seu coração mandar!"
+    },
+    {
+      "userId": 2,
+      "name": "Operação saúde",
+      "estado": "Pernambuco",
+      "areaAtuacao": "Saúde",
+      "descricao": "ONG que atua na area de Saúde a mais de 30 anos e ajuda pessoas que passam necessidade a ter um atendimento de qualidade com profissionais especializados",
+      "imagem": "https://images.everydayhealth.com/homepage/health-topics-2.jpgsfvrsn=757370ae_2",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "name": "Turma do bairro",
+      "estado": "São Paulo",
+      "areaAtuacao": "Assistência social",
+      "descricao": "ONG que presta forte apoio social em areas carentes no Estado, principalmente nas comunidades carentes",
+      "imagem": "http://pm1.narvii.com/6606/be126c0428ef7e5f4f5b650707ea80dbc03cca20_00.jpg",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "name": "Mundo fraterno",
+      "estado": "Rio de Janeiro",
+      "areaAtuacao": "Assistência social",
+      "descricao": "ONG que auxilia pessoas que possuem deficiência e não tem condições de pagar por remédios e equipamentos pra deficientes",
+      "imagem": "https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-dia-para-deficientes-fisicos_114360-4075.jpg?w=2000",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "name": "Associação dos melhores amigos",
+      "estado": "Pernambuco",
+      "areaAtuacao": "Animais",
+      "descricao": "ONG que cuida de animais de rua para serem adotados por pessoas e ajudar os futuros donos a cuidar dos bichinhos",
+      "imagem": "https://thumbs.dreamstime.com/b/love-friendship-caring-animals-white-samoyed-green-park-fulfills-command-hostess-dog-gives-paw-to-man-woman-holds-184344541.jpg",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "name": "Casa de vós",
+      "estado": "Ceará",
+      "areaAtuacao": "Assistência ",
+      "descricao": "ONG que cuida de idosos que estão passando situação de rua e não possuem cuidador",
+      "imagem": "https://thumbs.dreamstime.com/b/senhora-idosa-grandma-cartoon-80553869.jpg",
+      "id": 8
     }
   ]
 }

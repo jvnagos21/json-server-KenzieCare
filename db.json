@@ -31,6 +31,14 @@
       "foto": "https://cdn-icons-png.flaticon.com/512/2206/2206368.png",
       "is_admin": true,
       "id": 5
+    },
+    {
+      "email": "admin2@mail.com",
+      "password": "$2a$10$UZ.mpX2vSfv3NoHw5SomTe.M.Hd4KEN3toaC4In8UtlyonJOzkLiu",
+      "nome": "john admin",
+      "foto": "https://cdn-icons-png.flaticon.com/512/2206/2206368.png",
+      "is_admin": true,
+      "id": 6
     }
   ],
   "ONGs": [

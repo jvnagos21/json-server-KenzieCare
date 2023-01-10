@@ -10,6 +10,7 @@
     {
       "email": "jvmeira98@mail.com",
       "password": "$2a$10$9DZScWpfV0kC9EXApItsOeflrsvBJXODLtBNbsX8wv8EvNLirjG.6",
+      "is_admin": true,
       "id": 2
     },
     {

@@ -42,6 +42,14 @@
       "foto": "https://cdn-icons-png.flaticon.com/512/2206/2206368.png",
       "is_admin": true,
       "id": 6
+    },
+    {
+      "email": "sanachan@mail.com",
+      "password": "$2a$10$HJ8UHDE99V2HtRAHZuF1c.tyoHoW1DsMzPU8U6pC9dKmiic232cZy",
+      "nome": "Sana Minatozaki",
+      "foto": "https://i.pinimg.com/originals/69/97/05/6997056cffe01464623890fdab5a4108.jpg",
+      "is_admin": false,
+      "id": 7
     }
   ],
   "ONGs": [
